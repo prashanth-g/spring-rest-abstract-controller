@@ -1,4 +1,4 @@
-package com.prashanth.spring.rest;
+package com.prashanth.os.spring.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

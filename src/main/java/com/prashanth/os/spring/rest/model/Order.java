@@ -1,4 +1,4 @@
-package com.prashanth.spring.rest.model;
+package com.prashanth.os.spring.rest.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
